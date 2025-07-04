@@ -38,3 +38,6 @@ __pycache__/
 # 6. 忽略操作系统生成的文件
 .DS_Store
 Thumbs.db
+
+# 新增：忽略 MMDetection 源码文件夹
+mmdetection/
